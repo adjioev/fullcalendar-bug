@@ -1,0 +1,15 @@
+.container {
+  /* display: flex;
+  justify-content: stretch;
+  background-color: orange; */
+  height: 100vh;
+}
+
+.cal-element {
+  /* flex: 1; */
+}
+
+/* #cal-element {
+  height: 800px;
+  background-color: green;
+} */
